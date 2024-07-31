@@ -28,7 +28,7 @@ More information about the game's controls can be found in the About menu of the
 The game uses several libraries, all listed in the `Gemfile` file. They can be installed using the `bundle install` command.
 However, some gems require additional libraries installed on the system.
 
-*Před samotným spuštěním `bundle install` je potřeba nainstalovat `SDL2` a `ImageMagick`.*
+*Before running `bundle install` you need to install `SDL2` and `ImageMagick`.*
 
 === SDL2
 `SDL2` is required for the Gosu library. It can be installed on Ubuntu using the command:
